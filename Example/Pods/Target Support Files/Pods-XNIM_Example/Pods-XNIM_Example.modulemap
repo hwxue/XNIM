@@ -1,0 +1,6 @@
+framework module Pods_XNIM_Example {
+  umbrella header "Pods-XNIM_Example-umbrella.h"
+
+  export *
+  module * { export * }
+}

@@ -1,0 +1,6 @@
+framework module XNIM {
+  umbrella header "XNIM-umbrella.h"
+
+  export *
+  module * { export * }
+}

@@ -1,0 +1,6 @@
+framework module NtalkerPush {
+  umbrella header "NtalkerPush.h"
+
+  export *
+  module * { export * }
+}
